@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price":4100,
+      "quantity":56,
+      "selected":true,
+      "availabe":true
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price":4500,
+      "quantity":60,
+      "selected":true,
+      "availabe":false
+    },
+    {
+      "id": 3,
+      "name": "LapTop",
+      "price":4500,
+      "quantity":60,
+      "selected":false,
+      "availabe":true
+    },
+    {
+      "id": 4,
+      "name": "ImprimenteLazer",
+      "price":100,
+      "quantity":25,
+      "selected":false,
+      "availabe":false
+    }
+  ]
+
+}
